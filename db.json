@@ -74,7 +74,7 @@
       "lastSeenDate": "2026-10-18",
       "identifyingDetails": "Initials P.S. embossed inside, brown stitching, blue library card",
       "contactPreference": "Email",
-      "image": "",
+      "image": "/images/wallet.jpg",
       "status": "Match Found",
       "createdAt": "2026-10-19T08:00:00.000Z",
       "updatedAt": "2026-10-30T03:16:38.622Z"
@@ -89,7 +89,7 @@
       "lastSeenDate": "2026-10-22",
       "identifyingDetails": "Lock screen shows a dog photo; sticker on the back of the case",
       "contactPreference": "Phone",
-      "image": "",
+      "image": "/images/phone.jpg",
       "status": "Open",
       "createdAt": "2026-10-22T11:00:00.000Z",
       "updatedAt": "2026-10-22T11:00:00.000Z"
@@ -104,7 +104,7 @@
       "lastSeenDate": "2026-10-25",
       "identifyingDetails": "Red tag marked B-12",
       "contactPreference": "In-app",
-      "image": "",
+      "image": "/images/keys.jpg",
       "status": "Open",
       "createdAt": "2026-10-25T10:00:00.000Z",
       "updatedAt": "2026-10-25T10:00:00.000Z"
@@ -121,7 +121,7 @@
       "foundDate": "2026-10-19",
       "storageLocation": "Station lost property desk, shelf A2",
       "status": "Ready for Handover",
-      "image": "",
+      "image": "/images/wallet.jpg",
       "createdAt": "2026-10-19T14:00:00.000Z",
       "updatedAt": "2026-10-30T03:08:18.462Z"
     },
@@ -135,7 +135,7 @@
       "foundDate": "2026-10-23",
       "storageLocation": "Admin office locker 4",
       "status": "In Storage",
-      "image": "",
+      "image": "/images/phone.jpg",
       "createdAt": "2026-10-23T13:00:00.000Z",
       "updatedAt": "2026-10-23T13:00:00.000Z"
     },
@@ -149,7 +149,7 @@
       "foundDate": "2026-10-26",
       "storageLocation": "Security cabin",
       "status": "In Storage",
-      "image": "",
+      "image": "/images/keys.jpg",
       "createdAt": "2026-10-26T09:00:00.000Z",
       "updatedAt": "2026-10-26T09:00:00.000Z"
     }
